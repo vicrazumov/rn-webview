@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "ios": {
+      "bundleIdentifier": ""
+    },
+    "android": {
+      "package": ""
+    }
+  },
+  "name": "rntest",
+  "displayName": "RN test messaging"
+}
